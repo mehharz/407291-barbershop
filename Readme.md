@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Евгений Козлов](https://up.htmlacademy.ru/htmlcss/17/user/407291).
+* Студент: [Лешка Вор](https://up.htmlacademy.ru/htmlcss/17/user/407291).
 
 ---
 
